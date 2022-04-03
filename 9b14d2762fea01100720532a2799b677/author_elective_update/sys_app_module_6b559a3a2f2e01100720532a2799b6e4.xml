@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Games Repository">2f551af62f2e01100720532a2799b67a</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_698633_gamesapp_games_manager</name>
+        <order>12</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-03 02:15:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b559a3a2f2e01100720532a2799b6e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Games Repository" source="x_698633_gamesapp">9b14d2762fea01100720532a2799b677</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Games Repository">9b14d2762fea01100720532a2799b677</sys_scope>
+        <sys_update_name>sys_app_module_6b559a3a2f2e01100720532a2799b6e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-03 02:15:57</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Games Repository">9b14d2762fea01100720532a2799b677</application>
+        <file_path/>
+        <instance_id>aba1b37ddb5b80180ae3ac44d4961941</instance_id>
+        <instance_name>dev101970</instance_name>
+        <name>sys_app_module_6b559a3a2f2e01100720532a2799b6e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Games Repository">2f551af62f2e01100720532a2799b67a</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_698633_gamesapp_games_manager</name><order>12</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-03 02:15:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b559a3a2f2e01100720532a2799b6e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Games Repository" source="x_698633_gamesapp">9b14d2762fea01100720532a2799b677</sys_package><sys_policy/><sys_scope display_value="Games Repository">9b14d2762fea01100720532a2799b677</sys_scope><sys_update_name>sys_app_module_6b559a3a2f2e01100720532a2799b6e4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-03 02:15:57</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1512382988</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>9b14d2762fea01100720532a2799b679</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-03 02:15:57</sys_created_on>
+        <sys_id>23559a3a2f2e01100720532a2799b6e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fed3523770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-03 02:15:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6b559a3a8f2e01105291638aea78ece5</update_guid>
+        <update_guid_history>6b559a3a8f2e01105291638aea78ece5:-1512382988</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">541b52be2f2e01100720532a2799b63d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-03 02:40:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>7a475cd89e664600a6d23593f1201000</sys_id>
+        <sys_metadata>6b559a3a2f2e01100720532a2799b6e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Games Repository" source="x_698633_gamesapp">9b14d2762fea01100720532a2799b677</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Games Repository">9b14d2762fea01100720532a2799b677</sys_scope>
+        <sys_scope_delete display_value="">1d2be9ab6e1b4c6a83b3b35da7c16c64</sys_scope_delete>
+        <sys_update_name>sys_app_module_6b559a3a2f2e01100720532a2799b6e4</sys_update_name>
+        <sys_update_version display_value="sys_app_module_6b559a3a2f2e01100720532a2799b6e4">23559a3a2f2e01100720532a2799b6e6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-03 02:40:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
