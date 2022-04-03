@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="f640faf22fae01100720532a2799b65c" sys_domain="global" table="x_698633_gamesapp_games_manager" version="3" view="Manager_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-03 04:16:55</sys_created_on>
+            <sys_id>7301f6362fae01100720532a2799b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_698633_gamesapp_games_manager" sys_domain="global" view="6240faf22fae01100720532a2799b657">f640faf22fae01100720532a2799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-03 04:16:55</sys_created_on>
+            <sys_id>f301f6362fae01100720532a2799b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_698633_gamesapp_games_manager" sys_domain="global" view="6240faf22fae01100720532a2799b657">f640faf22fae01100720532a2799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-03 04:16:55</sys_created_on>
+            <sys_id>7701f6362fae01100720532a2799b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_698633_gamesapp_games_manager" sys_domain="global" view="6240faf22fae01100720532a2799b657">f640faf22fae01100720532a2799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:16:55</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_698633_gamesapp_games_manager</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-03 04:13:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f640faf22fae01100720532a2799b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_698633_gamesapp_games_manager</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Games Repository" source="x_698633_gamesapp">9b14d2762fea01100720532a2799b677</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Games Repository">9b14d2762fea01100720532a2799b677</sys_scope>
+            <sys_update_name>sys_ui_section_f640faf22fae01100720532a2799b65c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:13:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Manager View" name="Manager_View">6240faf22fae01100720532a2799b657</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

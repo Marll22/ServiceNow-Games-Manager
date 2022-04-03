@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e1cdae322fae01100720532a2799b678" sys_domain="global" table="x_698633_gamesapp_games_manager" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-03 04:02:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29cdae322fae01100720532a2799b6d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_698633_gamesapp_games_manager" name="x_698633_gamesapp_games_manager" sys_domain="global" view="Default view">e1cdae322fae01100720532a2799b678</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_698633_gamesapp_games_manager" sys_domain="global" view="Default view">1ecf96f22f6e01100720532a2799b613</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:02:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-03 04:02:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5cdae322fae01100720532a2799b6d7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_698633_gamesapp_games_manager" name="x_698633_gamesapp_games_manager" sys_domain="global" view="Default view">e1cdae322fae01100720532a2799b678</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_698633_gamesapp_games_manager" sys_domain="global" view="Default view">25cdae322fae01100720532a2799b677</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:10:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-03 04:02:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25cdae322fae01100720532a2799b6d3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_698633_gamesapp_games_manager" name="x_698633_gamesapp_games_manager" sys_domain="global" view="Default view">e1cdae322fae01100720532a2799b678</sys_ui_form>
+            <sys_ui_section caption="Game" display_value="Game" name="x_698633_gamesapp_games_manager" sys_domain="global" view="Default view">a5cdae322fae01100720532a2799b675</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:10:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_698633_gamesapp_games_manager</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-03 04:02:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1cdae322fae01100720532a2799b678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_698633_gamesapp_games_manager</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Games Repository" source="x_698633_gamesapp">9b14d2762fea01100720532a2799b677</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Games Repository">9b14d2762fea01100720532a2799b677</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e1cdae322fae01100720532a2799b678</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:02:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
