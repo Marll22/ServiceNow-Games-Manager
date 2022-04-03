@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">e04e166aa5300110c0a0e1db2cdc951d</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-03 02:15:25</sys_created_on>
+        <sys_id>c8451a3a2f2e01100720532a2799b68a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Games Repository" source="x_698633_gamesapp">9b14d2762fea01100720532a2799b677</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-03 02:15:25</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

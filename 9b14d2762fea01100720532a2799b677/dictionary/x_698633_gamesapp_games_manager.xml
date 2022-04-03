@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Games Manager" max_length="40" name="x_698633_gamesapp_games_manager" type="collection">
+        <element attributes="encode_utf8=false" label="Author" max_length="32" name="author" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Release Date of" max_length="40" name="release_date_of" type="glide_date_time"/>
+    </element>
+</database>
