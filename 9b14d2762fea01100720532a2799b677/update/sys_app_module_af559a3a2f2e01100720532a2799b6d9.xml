@@ -4,7 +4,9 @@
         <application display_value="Games Repository">2f551af62f2e01100720532a2799b67a</application>
         <assessment/>
         <device_type/>
-        <filter/>
+        <filter table="task">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
@@ -24,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>af559a3a2f2e01100720532a2799b6d9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="Games Repository" source="x_698633_gamesapp">9b14d2762fea01100720532a2799b677</sys_package>
@@ -32,7 +34,7 @@
         <sys_scope display_value="Games Repository">9b14d2762fea01100720532a2799b677</sys_scope>
         <sys_update_name>sys_app_module_af559a3a2f2e01100720532a2799b6d9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-03 02:15:56</sys_updated_on>
+        <sys_updated_on>2022-04-03 02:41:11</sys_updated_on>
         <timeline_page/>
         <title>All</title>
         <uncancelable>false</uncancelable>

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Games Manager" max_length="40" name="x_698633_gamesapp_games_manager" type="collection">
+    <element audit="true" extends="task" label="Games Manager" max_length="40" name="x_698633_gamesapp_games_manager" sizeclass="1" type="collection">
         <element attributes="encode_utf8=false" label="Author" max_length="32" name="author" reference="sys_user" type="reference"/>
+        <element choice="1" label="Game Type" max_length="40" name="game_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Action" value="0"/>
+                <element inactive_on_update="false" label="Dram" value="5"/>
+                <element inactive_on_update="false" label="Horror" value="15"/>
+                <element inactive_on_update="false" label="MOBA" value="10"/>
+                <element inactive_on_update="false" label="Other" value="30"/>
+                <element inactive_on_update="false" label="Romance" value="20"/>
+                <element inactive_on_update="false" label="RPG" value="25"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Impost Value" max_length="20" name="impost_value" type="price"/>
+        <element label="Other" max_length="40" name="other" type="string"/>
+        <element label="Approval Project" max_length="40" name="project_approval" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Release Date of" max_length="40" name="release_date_of" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" mandatory="true" max_length="40" name="title" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" mandatory="true" max_length="20" name="u_price" type="price"/>
     </element>
 </database>

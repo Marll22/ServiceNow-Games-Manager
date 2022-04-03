@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_698633_gamesapp_games_manager">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="game_type" table="x_698633_gamesapp_games_manager">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
-        <audit>true</audit>
-        <calculation/>
-        <choice>0</choice>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Game Type</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,12 +27,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>game_type</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="Choice">choice</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_698633_gamesapp_games_manager</name>
@@ -42,21 +47,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>1</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-04-03 02:15:25</sys_created_on>
-        <sys_id>73351a3a2f2e01100720532a2799b67e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>x_698633_gamesapp_games_manager</sys_name>
+        <sys_created_on>2022-04-03 13:36:47</sys_created_on>
+        <sys_id>b70130832fa641100720532a2799b6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Game Type</sys_name>
         <sys_package display_value="Games Repository" source="x_698633_gamesapp">9b14d2762fea01100720532a2799b677</sys_package>
         <sys_policy/>
         <sys_scope display_value="Games Repository">9b14d2762fea01100720532a2799b677</sys_scope>
-        <sys_update_name>sys_dictionary_x_698633_gamesapp_games_manager_null</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-04-03 10:27:33</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_698633_gamesapp_games_manager_game_type</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-03 13:36:47</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
